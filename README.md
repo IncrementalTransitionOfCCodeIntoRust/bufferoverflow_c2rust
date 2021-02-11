@@ -9,7 +9,7 @@ cargo build
 ./target/debug/main
 ```
 
-### About 
+## About 
 
 The initial C program was designed to produce a buffer overflow when typing in a password longer than 16 characters. 
 
